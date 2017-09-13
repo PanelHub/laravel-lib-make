@@ -1,0 +1,15 @@
+{
+    "name": "panelhub/laravel-lib-make",
+    "description": "Lib para facilitar a criação de comandos make no laravel",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.5.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Silva",
+            "email": "dsilvaoliveira94@gmail.com"
+        }
+    ]
+}
